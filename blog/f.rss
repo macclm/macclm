@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MACCLM</title>
+        <link>https://maccl.org</link>
+        <description>MACCLM</description>
+        <lastBuildDate>Sun, 10 Feb 2019 05:07:19 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>MACCLM</generator>
+        <atom:link href="https://maccl.org/blog/f" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>

@@ -1,0 +1,740 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:600,700&display=swap
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,400i,700,700i,900&display=swap
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/114fd8d26412e200/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\114fd8d26412e200\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/144303fedc84a134/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\144303fedc84a134\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/1cf1dc5305a7a9dc/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\1cf1dc5305a7a9dc\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/1fdafa01d284e41c/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\1fdafa01d284e41c\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/21437df509c027ce/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\21437df509c027ce\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/22221fe52ee2c411/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\22221fe52ee2c411\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/28d6aee28c395ffe/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\28d6aee28c395ffe\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/2ec37e69d964de88/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\2ec37e69d964de88\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/3396082156dc3716/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\3396082156dc3716\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/33b711897b898ef8/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\33b711897b898ef8\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/3559cd08e2843e34/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\3559cd08e2843e34\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/35657b9ad54aafba/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\35657b9ad54aafba\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/3974d39f8925a55b/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\3974d39f8925a55b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/3ffeb35bfc366a35/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\3ffeb35bfc366a35\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/426d9cbcaedd8974/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\426d9cbcaedd8974\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/44f596e0b6876900/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\44f596e0b6876900\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/486cfd526444a445/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\486cfd526444a445\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/4af44d69c215cdb2/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\4af44d69c215cdb2\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/4b9a462f4db0b662/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\4b9a462f4db0b662\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/4bd9cb8ea7aeffcc/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\4bd9cb8ea7aeffcc\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/4ff47bfda3350c96/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\4ff47bfda3350c96\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/50cf33b82c985656/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\50cf33b82c985656\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/51027f44f688ec3a/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\51027f44f688ec3a\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/535b852dd5157628/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\535b852dd5157628\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/59d16e51a9a16154/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\59d16e51a9a16154\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/5c5fd6f83acc07b7/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\5c5fd6f83acc07b7\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/64f2f8ffff4a5d92/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\64f2f8ffff4a5d92\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/6a8e0786aab066ee/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\6a8e0786aab066ee\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/6d9d2dda67bda378/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\6d9d2dda67bda378\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/71019e7244f8472d/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\71019e7244f8472d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/7211c574b12582d0/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\7211c574b12582d0\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/733653bedb4c26e2/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\733653bedb4c26e2\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/733a9747fa53efb5/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\733a9747fa53efb5\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/738bb6d31b9f2446/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\738bb6d31b9f2446\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/73b34df7df577f01/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\73b34df7df577f01\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/79d21531c939e39a/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\79d21531c939e39a\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/79d9a48543c97fa4/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\79d9a48543c97fa4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/7e0a3ed7e88cc5e4/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\7e0a3ed7e88cc5e4\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/7e15700661d22623/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\7e15700661d22623\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/7e336c28fbd4358f/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\7e336c28fbd4358f\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/8739bb51bc62b486/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\8739bb51bc62b486\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/89f9f32427e16f14/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\89f9f32427e16f14\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/8af744d5ecf9bcf/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\8af744d5ecf9bcf\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/922e5858b0bd5253/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\922e5858b0bd5253\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/982f13fb455b67c5/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\982f13fb455b67c5\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/9cec8091c2474603/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\9cec8091c2474603\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/9e8cdf733607cc9/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\9e8cdf733607cc9\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/a11995decb7b97f7/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\a11995decb7b97f7\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/c23de3c556697919/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\c23de3c556697919\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/c915527e1ba1fc91/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\c915527e1ba1fc91\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/cb678cf6afeb3f1a/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\cb678cf6afeb3f1a\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/cfc795e2eaed4f0d/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\cfc795e2eaed4f0d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/d29a7f7a8f1c2c4d/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\d29a7f7a8f1c2c4d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/d6fa42203e0cd28b/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\d6fa42203e0cd28b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/d7b7cf2897c4b63/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\d7b7cf2897c4b63\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/d8f0aab826b2fe0c/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\d8f0aab826b2fe0c\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/db55a77604f4e498/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\db55a77604f4e498\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/db99e1501d07c510/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\db99e1501d07c510\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/de2dc14e4780c42d/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\de2dc14e4780c42d\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/e08b4edd8ae0688/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\e08b4edd8ae0688\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/e272ad916cb66139/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\e272ad916cb66139\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/e36a070fc8ed5c42/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\e36a070fc8ed5c42\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/e4fda50a0cff1bc9/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\e4fda50a0cff1bc9\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/e61e9822a2e94a39/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\e61e9822a2e94a39\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/eff880353e29cade/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\eff880353e29cade\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/f580ae6ca25e1432/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\f580ae6ca25e1432\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/f5c17f43dff3f46b/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\f5c17f43dff3f46b\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/f970ed92987a76c9/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\f970ed92987a76c9\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/fa59ff1ffdcae8a2/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\fa59ff1ffdcae8a2\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/blobby/go/06ade9ac-6f49-42fc-b859-257bd38b955a/gpub/fd51b8d9d2c090b3/script.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blobby\go\06ade9ac-6f49-42fc-b859-257bd38b955a\gpub\fd51b8d9d2c090b3\script.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.23.2.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ceph-p3-01\website-builder-data-prod\static\widgets\UX.4.23.2.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/gfonts/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gfonts\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:100%25
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w100%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1023,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1279,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1279,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1350,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1350,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1534,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1535,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1535,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1920,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w1920,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2046,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w2046,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2301,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w2301,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w2558,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3069,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w3069,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3070,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w3070,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3837,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w3837,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:3840,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w3840,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:450,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w450,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:4605,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w4605,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:5760,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w5760,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:767,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w767,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:900,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\cr=t0%,l0%,w100%,h100%\rs=w900,m
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/rs=w:1023
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\rs=w1023
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\rs=w1240,h620,cgtrue,m\cr=w1240,h620
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/rs=w:403
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\rs=w403
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg/:/rs=w:719
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\fdddd71e-6ca4-4c59-8b20-c75f2814a4d7.jpg\rs=w719
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/IMG-20190811-WA0050.jpg/:/cr=t:0%25
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\IMG-20190811-WA0050.jpg\cr=t0%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/IMG-20190811-WA0050.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\IMG-20190811-WA0050.jpg\cr=t0%,l0%,w100%,h100%\rs=w400,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/MACCLM Landing Page-0003.png/:/
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\MACCLM Landing Page-0003.png\index.htm
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/MACCLM Landing Page-0003.png/:/rs=w:403
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\MACCLM Landing Page-0003.png\rs=w403
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/MACCLM Landing Page-0003.png/:/rs=w:719
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\MACCLM Landing Page-0003.png\rs=w719
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Ramadan Timetable_1May21.png/:/cr=t:0%25
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Ramadan Timetable_1May21.png\cr=t0%
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Ramadan Timetable_1May21.png/:/cr=t:0%25,l:3.22%25,w:93.56%25,h:100%25/rs=w:814,h:1085.3333333333333,cg:true
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Ramadan Timetable_1May21.png\cr=t0%,l3.22%,w93.56%,h100%\rs=w814,h1085.3333333333333,cgtrue
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Robotics Certificate.jpg/:/rs=w:1023
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Robotics Certificate.jpg\rs=w1023
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Robotics Certificate.jpg/:/rs=w:1240
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Robotics Certificate.jpg\rs=w1240
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Robotics Certificate.jpg/:/rs=w:1240,h:620,cg:true,m/cr=w:1240,h:620
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Robotics Certificate.jpg\rs=w1240,h620,cgtrue,m\cr=w1240,h620
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Robotics Certificate.jpg/:/rs=w:403
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Robotics Certificate.jpg\rs=w403
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/Robotics Certificate.jpg/:/rs=w:719
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\Robotics Certificate.jpg\rs=w719
+Content Type: image/jpeg
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:133.33333333333331
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\static\transparent_placeholder.png\rs=w133.33333333333331
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:365
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\static\transparent_placeholder.png\rs=w365
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:388
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\static\transparent_placeholder.png\rs=w388
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:400
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\static\transparent_placeholder.png\rs=w400
+Content Type: image/png
+
+Uri: https://img1.wsimg.com/isteam/ip/static/transparent_placeholder.png/:/rs=w:451
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\isteam\ip\static\transparent_placeholder.png\rs=w451
+Content Type: image/png
+
+Uri: https://img6.wsimg.com/wrhs/362d20193a8fed115f99b16a157b7fc4/tccl.min.js
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\wrhs\362d20193a8fed115f99b16a157b7fc4\tccl.min.js
+Content Type: application/javascript
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=h:104,cg:true,m/qt=q:95
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=h104,cgtrue,m\qt=q95
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=h:127,cg:true,m/qt=q:95
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=h127,cgtrue,m\qt=q95
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:114,h:114,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w114,h114,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:120,h:120,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w120,h120,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:139
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w139
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:144,h:144,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w144,h144,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:152,h:152,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w152,h152,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:169
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w169
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:180,h:180,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w180,h180,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:57,h:57,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w57,h57,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:60,h:60,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w60,h60,m
+Content Type: image/jpeg
+
+Uri: https://isteam.wsimg.com/ip/06ade9ac-6f49-42fc-b859-257bd38b955a/logo/cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg/:/rs=w:72,h:72,m
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ip\06ade9ac-6f49-42fc-b859-257bd38b955a\logo\cf29d973-d639-4cd0-9efb-daa2c0f80e26.jpg\rs=w72,h72,m
+Content Type: image/jpeg
+
+Uri: https://maccl.org/
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\index.htm
+Content Type: text/html
+
+Uri: https://maccl.org/about-prayer-2
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\about-prayer-2.html
+Content Type: text/html
+
+Uri: https://maccl.org/about-us
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\about-us.html
+Content Type: text/html
+
+Uri: https://maccl.org/after-school-activities
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\after-school-activities.html
+Content Type: text/html
+
+Uri: https://maccl.org/banks
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\banks.html
+Content Type: text/html
+
+Uri: https://maccl.org/blog
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blog.html
+Content Type: text/html
+
+Uri: https://maccl.org/blog/f.atom
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blog\f.atom
+Content Type: application/atom+xml
+
+Uri: https://maccl.org/blog/f.json
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blog\f.json
+Content Type: application/json
+
+Uri: https://maccl.org/blog/f.rss
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\blog\f.rss
+Content Type: application/rss+xml
+
+Uri: https://maccl.org/board-of-trustees
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\board-of-trustees.html
+Content Type: text/html
+
+Uri: https://maccl.org/committee-members
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\committee-members.html
+Content Type: text/html
+
+Uri: https://maccl.org/community-achievements
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\community-achievements.html
+Content Type: text/html
+
+Uri: https://maccl.org/contact-us
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\contact-us.html
+Content Type: text/html
+
+Uri: https://maccl.org/dawah-activities
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\dawah-activities.html
+Content Type: text/html
+
+Uri: https://maccl.org/drs-nila-%26-sohel-karims
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\drs-nila-&-sohel-karims.html
+Content Type: text/html
+
+Uri: https://maccl.org/elder-care-service
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\elder-care-service.html
+Content Type: text/html
+
+Uri: https://maccl.org/family-networking
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\family-networking.html
+Content Type: text/html
+
+Uri: https://maccl.org/founders
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\founders.html
+Content Type: text/html
+
+Uri: https://maccl.org/gas-stations
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\gas-stations.html
+Content Type: text/html
+
+Uri: https://maccl.org/get-togethers
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\get-togethers.html
+Content Type: text/html
+
+Uri: https://maccl.org/grocery-stores
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\grocery-stores.html
+Content Type: text/html
+
+Uri: https://maccl.org/health-advice
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\health-advice.html
+Content Type: text/html
+
+Uri: https://maccl.org/hotels
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\hotels.html
+Content Type: text/html
+
+Uri: https://maccl.org/how-to-pray
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\how-to-pray.html
+Content Type: text/html
+
+Uri: https://maccl.org/information
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\information.html
+Content Type: text/html
+
+Uri: https://maccl.org/manifest.webmanifest
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://maccl.org/neighboring-masajid
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\neighboring-masajid.html
+Content Type: text/html
+
+Uri: https://maccl.org/newsletter
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\newsletter.html
+Content Type: text/html
+
+Uri: https://maccl.org/past-events
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\past-events.html
+Content Type: text/html
+
+Uri: https://maccl.org/prayer-timetable
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\prayer-timetable.html
+Content Type: text/html
+
+Uri: https://maccl.org/professional-development
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\professional-development.html
+Content Type: text/html
+
+Uri: https://maccl.org/ramdhan-timetable
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\ramdhan-timetable.html
+Content Type: text/html
+
+Uri: https://maccl.org/restaurants
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\restaurants.html
+Content Type: text/html
+
+Uri: https://maccl.org/social-service
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\social-service.html
+Content Type: text/html
+
+Uri: https://maccl.org/sponsors
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\sponsors.html
+Content Type: text/html
+
+Uri: https://maccl.org/sports-activities
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\sports-activities.html
+Content Type: text/html
+
+Uri: https://maccl.org/stationary
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\stationary.html
+Content Type: text/html
+
+Uri: https://maccl.org/sunday-school
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\sunday-school.html
+Content Type: text/html
+
+Uri: https://maccl.org/upcoming-events
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\upcoming-events.html
+Content Type: text/html
+
