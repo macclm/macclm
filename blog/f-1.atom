@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maccl.org</id>
+    <title>MACCLM</title>
+    <updated>2019-02-10T05:07:19Z</updated>
+    <generator>MACCLM</generator>
+    <author>
+        <name>MACCLM</name>
+    </author>
+    <link rel="alternate" href="https://maccl.org"/>
+    <link rel="self" href="https://maccl.org/blog/f"/>
+    <subtitle>MACCLM</subtitle>
+</feed>
