@@ -1,1 +1,8 @@
-{"version":"https://jsonfeed.org/version/1","title":"MACCLM","home_page_url":"https://maccl.org","description":"MACCLM","author":{"name":"MACCLM"},"items":[]}
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "MACCLM",
+  "home_page_url": "https://maccl.org",
+  "description": "MACCLM",
+  "author": { "name": "MACCLM" },
+  "items": []
+}
