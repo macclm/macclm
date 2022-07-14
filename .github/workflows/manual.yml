@@ -26,17 +26,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Checkout submodules
-        #run: git submodule update --init --recursive
-        #git clone --recurse-submodules https://github.com/macclm/sunday-school.git && \
-        #          git checkout main && \
-        #          cd sunday-school && \
-        #  git pull && \
-        #  cd .. && \
         run: |
-          git config --global user.email "admin@macclm.org" && \
-          git config --global user.name "macclm" && \
           git submodule sync && \
-          git submodule update --init --recursive --remote && \
-          git add ./sunday-school/. && \
-          git commit -m "git submodule updated" && \
-          git push -u origin submodule-updates
+          git submodule update --init --recursive --remote
