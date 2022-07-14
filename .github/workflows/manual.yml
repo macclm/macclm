@@ -32,11 +32,12 @@ jobs:
         #          cd sunday-school && \
         #  git pull && \
         #  cd .. && \
+        #git add ./sunday-school/. && \
+        #  git commit -m "git submodule updated" && \
+        #  git push -u origin submodule-updates
         run: |
           git config --global user.email "admin@macclm.org" && \
           git config --global user.name "macclm" && \
           git submodule sync && \
-          git submodule update --init --recursive --remote && \
-          git add ./sunday-school/. && \
-          git commit -m "git submodule updated" && \
-          git push -u origin submodule-updates
+          git submodule update --init --recursive --remote
+          
