@@ -1,0 +1,19 @@
+name: submodule
+
+on:
+  push:
+    branches:
+      - dev
+  pull_request:
+    branches:
+      - dev
+
+jobs:
+  submodule:
+    name: Submodule
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pull Sunday School Content
+        run: git pull
+        working-directory: "sunday-school"
