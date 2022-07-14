@@ -1,3 +1,4 @@
 [submodule "sunday-school"]
 	path = sunday-school
 	url = https://github.com/macclm/sunday-school.git
+	branch = main
