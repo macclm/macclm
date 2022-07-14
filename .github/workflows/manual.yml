@@ -33,7 +33,9 @@ jobs:
           git clone --recurse-submodules https://github.com/macclm/sunday-school.git && \
           cd sunday-school && \
           git submodule update --init --recursive && \
+          git checkout main && \
           git pull && \
-          git add . && \
+          cd .. && \
+          git add ./sunday-school/. && \
           git commit -m "git submodule updated" && \
           git push origin
