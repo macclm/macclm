@@ -33,6 +33,7 @@ jobs:
           git config --global user.name "macclm" && \
           git clone --recurse-submodules https://github.com/macclm/sunday-school.git && \
           cd sunday-school && \
+          git submodule update --init --recursive && \
           git pull && \
           git add . && \
           git commit -m "git submodule updated" && \
