@@ -1,33 +1,36 @@
 name: Update submodules
-
-# Controls when the action will run.
 on:
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
+  push:
+    branches:
+      - dev
+  pull_request:
+    branches:
+      - dev
 jobs:
-  # This workflow contains a single job called "update"
-  update:
+  update_submodules:
+    name: Update submodules
     runs-on: ubuntu-latest
-
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      - name: Pull & update submodules recursively
-        run: |
-          git submodule update --init --recursive
-          git submodule update --recursive --remote
-
-      - name: Commit & push changes
-        run: |
-          git config --global user.name macclm
-          git config --global user.email "admin@macclm.org"
-          git commit -am "Update submodules"
-          git push
-
-        #run: |
-        #  git config --global user.name ${{ secrets.USER_NAME }}
-        #  git config --global user.email ${{ secrets.USER_EMAIL }}
-        #  git commit -am "Update submodules"
-        #  git push
+    - uses: actions/checkout@v2
+      with:
+        token : ${{secrets.OOG_TOKEN}}
+        submodules : true
+    - name: Update submodules
+      id: update
+      run: git submodule update --remote --recursive 
+    - name: Run git status
+      id: status
+      run: echo "::set-output name=status::$(git status -s)"
+    - name: Add and commit files
+      run: |
+        git add .
+        git config --local user.email "admin@macclm.org"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update submodules at $(date "+DATE: %Y-%m-%d TIME: %H:%M:%S")"
+      if: ${{ steps.status.outputs.status }}
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: dev
+      if: ${{ steps.status.outputs.status && github.event_name == 'push' }}
