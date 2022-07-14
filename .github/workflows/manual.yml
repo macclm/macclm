@@ -38,4 +38,4 @@ jobs:
           cd .. && \
           git add ./sunday-school/. && \
           git commit -m "git submodule updated" && \
-          git push origin
+          git push origin -u submodule-updates
