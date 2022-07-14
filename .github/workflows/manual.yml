@@ -28,11 +28,11 @@ jobs:
       - name: Checkout submodules
         #run: git submodule update --init --recursive
         run: |
-          ls -l && \
           git config --global user.email "admin@macclm.org" && \
           git config --global user.name "macclm" && \
           git clone --recurse-submodules https://github.com/macclm/sunday-school.git && \
           cd sunday-school && \
+          git submodule update --init --recursive && \
           git pull && \
           git add . && \
           git commit -m "git submodule updated" && \
