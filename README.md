@@ -1,10 +1,10 @@
-![MACCLM Logo](./assets/images/logo.jpg | width=48)
-
-<img src="/assets/images/logo.jpg" width="48">
+<center>
+<img src="/assets/images/logo.jpg" width="200">
+</center>
 
 # MACCLM.org web site
 
-- Test website:       [https://macclm.smart-corporation.com](https://macclm.smart-corporation.com)
+- Test website: [https://macclm.smart-corporation.com](https://macclm.smart-corporation.com)
 - Production website: [https://www.macclm.org](https://macclm.smart-corporation.com)
 
 ## Folder Structure:
@@ -38,44 +38,13 @@ git submodule update --init --recursive --remote
 
 ## Location (Testing)
 
-Address:
+### Address:
 
-...
+```
 344 Lowell Street
 Lexington, MA 02420
-...
-
-```topojson
-{
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [42.447349, 42.447349]
-        },
-        {
-          "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
-          "arcs": [0]
-        },
-        {
-          "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
-          },
-          "arcs": [[1]]
-        }
-      ]
-    }
-  },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
 ```
+
+<center>
+<img src="https://www.google.com/maps/place/344+Lowell+St,+Lexington,+MA+02420/@42.4464106,-71.2003011,17z/data=!3m1!4b1!4m5!3m4!1s0x89e39df95ed94fc3:0xb413b20e53e7900!8m2!3d42.4464106!4d-71.1981124">
+</center>
