@@ -59,7 +59,7 @@ Use this site to generate topojson code:
 http://geojson.io/#map=15/42.4465/-71.1980
 
 Format: map=scale/latitude/longitude
---->
+
 
 ```topojson
 {
@@ -90,3 +90,4 @@ Format: map=scale/latitude/longitude
   ]
 }
 ```
+--->
