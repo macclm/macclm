@@ -52,9 +52,7 @@ Address:
 Lexington, MA 02420
 ```
 
-<p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11776.449962310346!2d-71.1978677!3d42.4466226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc72a0d0f0343e49c!2sLexington%20Mosque!5e0!3m2!1sen!2sus!4v1657855503575!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</p>
+![Lexington Mosque Map](/assets/images/lexington-mosque-map.png)
 
 <!---
 Use this site to generate topojson code:
