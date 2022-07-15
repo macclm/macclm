@@ -1,6 +1,6 @@
-<center>
-<img src="/assets/images/logo.jpg" width="200">
-</center>
+<div style="text-align: center;">
+    <img src="/assets/images/logo.jpg" width="200">
+</div>
 
 # MACCLM.org web site
 
@@ -36,15 +36,43 @@ git submodule sync
 git submodule update --init --recursive --remote
 ```
 
-## Location (Testing)
+## Location
 
-### Address:
+Address:
 
 ```
 344 Lowell Street
 Lexington, MA 02420
 ```
 
-<center>
-<img src="https://www.google.com/maps/place/344+Lowell+St,+Lexington,+MA+02420/@42.4464106,-71.2003011,17z/data=!3m1!4b1!4m5!3m4!1s0x89e39df95ed94fc3:0xb413b20e53e7900!8m2!3d42.4464106!4d-71.1981124">
-</center>
+### Testing Map in Markdown :)
+
+```topojson
+{
+  "type": "Topology",
+  "objects": {
+    "collection": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {
+            "marker-color": "#f70202",
+            "marker-size": "medium",
+            "marker-symbol": ""
+          },
+          "coordinates": [0, 0]
+        }
+      ]
+    }
+  },
+  "arcs": [],
+  "transform": {
+    "scale": [1, 1],
+    "translate": [-71.19758605957031, 42.44600806191486]
+  },
+  "bbox": [
+    -71.19758605957031, 42.44600806191486, -71.19758605957031, 42.44600806191486
+  ]
+}
+```
