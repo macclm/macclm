@@ -730,8 +730,8 @@ Uri: https://maccl.org/stationary
 File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\stationary-1.html
 Content Type: text/html
 
-Uri: https://maccl.org/sunday-school
-File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\sunday-school-1.html
+Uri: https://maccl.org/school
+File Name: C:\Users\zaki_\Desktop\temp\macclm\maccl.org\school-1.html
 Content Type: text/html
 
 Uri: https://maccl.org/upcoming-events
